@@ -1,2 +1,0 @@
-# MultiThreading
-Assignment on Multithreading

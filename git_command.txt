@@ -1,0 +1,11 @@
+git clone URL				---> for cloning the project (copies the files from repository to the folder)
+git pull				---> for pulling the files from repository
+git status				---> for checking the status
+git add fileName			---> for adding a particular file to the repository
+git add . 				---> for adding all files
+git commit -m "some comments"		---> for saving all the changes
+git push				---> for pushing the changes to the remote repository
+
+git checkout -b BranchName		---> for creating a new branch in the local drive
+git push --set-upstream origin Arjun	---> for pushing the new branch to the remote repository
+git checkout BranchName			---> switch to the new branch
